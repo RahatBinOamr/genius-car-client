@@ -1,0 +1,6 @@
+.checkout {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+    url("../../assets/images/checkout/checkout.png");
+  height: 300px;
+  width: 100%;
+}

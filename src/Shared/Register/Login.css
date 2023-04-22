@@ -1,0 +1,10 @@
+.login {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+    url("../../assets/images/login/login.svg");
+  height: 100%;
+  width: 100%;
+}
+.bg {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+    url("../../assets/images/banner/2.jpg");
+}
